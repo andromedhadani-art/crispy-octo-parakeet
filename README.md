@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
   <head>
-  My First Code
+  <title>My First Code</title>
   </head>
   <body>
   <h1>hello goodwall, i learn html now!</h1>
