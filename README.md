@@ -1,3 +1,4 @@
+<head>#MyFirstCode</head>
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andromedhadani-art&show_icons=true&theme=default)
 
@@ -9,9 +10,9 @@
 - Stack Overflow community
 
 ## 📱 Get in Touch
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: [andromedhadani@gmail.com]
+- 📷 Instagram: [@dani_andromedha]
+- 📞 :Mobile Number [Coming soon!]
 - 🌐 Portfolio: [Coming Soon!]
 
 ## 🎯 My Goals
@@ -38,6 +39,6 @@ I'm always open to:
 
 **"The best time to start was yesterday. The second best time is now!" 💫**
 
-*Last updated: July 2026*
+*Last updated: 5 July 2026*
 
       
